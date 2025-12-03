@@ -1,105 +1,85 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Abdelrahman+Aljbarat;Full-Stack+.NET+Developer;Passionate+about+Web+%26+Software+Engineering" />
-</p>
+# Hi there! I'm Abdelrahman Hani Aljabarat 👋
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/5d/38/88/5d3888d14318c5aaa0dae68d8b793c2b.gif" width="350"/>
-</p>
+[![Anime Coding Header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ5ZXp4YmE3emQ1YmF6enZ5ZXp4YmE3emQ1YmF6enZ5ZXp4YmEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/L1R1tvI9svkIW75eM/giphy.gif)](https://github.com/Abdelrahman-Aljbaratl/Abdelrahman-Aljbaratl)
 
----
+### 👨‍💻 Software Engineer | Junior .NET Developer
 
-# 👨‍💻 About Me  
-I'm **Abdelrahman Aljbarat**, a **Full-Stack .NET Developer** with deep passion for building  
-**modern web applications, scalable APIs, SQL solutions, and enterprise-level systems.**
+[cite_start]Based in **Amman, Jordan** [cite: 6][cite_start], I am a Junior .NET Developer with hands-on experience in building web applications using **ASP.NET Core, Blazor, C#, and SQL Server**[cite: 9]. [cite_start]I focus intensely on clean code, performance optimization, and delivering excellent user experiences[cite: 9]. [cite_start]I am passionate about learning new technologies, improving development practices, and contributing effectively to team projects[cite: 10].
 
-💡 I work extensively with:  
-- **ASP.NET Core (Web API, MVC, Razor)**  
-- **Entity Framework Core (Migrations, LINQ, Clean Architecture)**  
-- **Angular / React basics**  
-- **SQL Server, Stored Procedures, Views, Joins**  
-- **Docker, WSL2, Redis, Seq, Prometheus (DevOps basics)**  
-- **Authentication & Authorization: JWT, Identity, Roles, Claims**  
-
-🚀 Always learning, improving, and building real-world projects like:  
-**MechanicShop, BlogPlatform, TaskManager, OnlineShop, Portfolio Systems.**
+[cite_start]Most recently, I worked as a **Full Stack .NET Developer** at Binary Digits[cite: 12, 13].
 
 ---
 
-# 🛠️ Tech Stack  
+<div align="center">
 
-### 🚀 Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,regex" />
-</p>
+### 🌐 Connect With Me
 
-### 🎨 Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-dev/)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahman.aljbarat@gmail.com)
 
-### 🗄️ Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-  <img src="https://skillicons.dev/icons?i=azure" />
-</p>
+[cite_start]*Email: abdelrahman.aljbarat@gmail.com* [cite: 2]
 
-### ⚙️ DevOps / Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,redis,git,github,linux,powershell,bash" />
-</p>
+</div>
 
 ---
 
-# 📦 Featured Projects  
-> 🔥 Want more? Check the pinned repositories!
+### 🛠️ Technical Stack
 
-### 🧰 **MechanicShop – Complete Workshop Management System**  
-Backend: ASP.NET Core | EF Core | SQL Server  
-Features: Customers, Work Orders, Invoices, Labor, Reports  
+[cite_start]I have experience building economic applications using modern web technologies, focusing on efficient, scalable, and secure solutions[cite: 16].
 
-### 📝 **BlogPlatform – Clean Architecture CMS**  
-Layers: Domain | Application | Infrastructure  
-Tech: EF Core, CQRS, MediatR, Serilog, JWT
+#### 💻 Languages & Frameworks
+[cite_start]![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) [cite: 30]
+[cite_start]![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) [cite: 30]
+[cite_start]![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) [cite: 31]
+[cite_start]![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) [cite: 31]
+[cite_start]![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) [cite: 31]
+[cite_start]![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) [cite: 31]
+[cite_start]![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) [cite: 31]
 
-### 📌 **TaskManager – Project & Team Management System**  
-Tasks, Projects, Comments, Attachments, Teams  
-Frontend + API + Authentication
+#### 🗄️ Databases & ORM
+[cite_start]![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) [cite: 30]
+[cite_start]![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) [cite: 32]
+[cite_start]![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) [cite: 30]
+[cite_start]![Dapper](https://img.shields.io/badge/Dapper-black?style=flat-square&logo=dotnet&logoColor=white) [cite: 31]
 
-### 🛒 **OnlineShop – Razor Pages E-commerce**  
-Cart, Products, Checkout, Payments  
-Clean, modular, fast
+#### ⚙️ Architecture & Practices
+* [cite_start]**Architecture:** Clean Architecture, CQRS, Domain-Driven Design (DDD), Microservices, MVC[cite: 31].
+* [cite_start]**Practices:** OOP, Design Patterns, RESTful APIs, Asynchronous Programming, Code Review[cite: 31].
 
----
-
-# 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-Aljbaratl&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Aljbaratl&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Aljbaratl&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-# 🌐 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdelrahman-aljbarat" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
-  <a href="mailto:abdelrahman.aljbarat@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-  </a>
-  <a href="https://github.com/Abdelrahman-Aljbaratl">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  </a>
-</p>
+#### 🛠️ Tools
+[cite_start]![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) [cite: 32]
+[cite_start]![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) [cite: 32]
+[cite_start]![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) [cite: 32]
+[cite_start]![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) [cite: 32]
+[cite_start]![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) [cite: 32]
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/bb/74/3a/bb743a0cb84dad2cf7f6010e5201a2cd.gif" width="300" />
-</p>
+### 🚀 Key Projects Highlight
 
+I have developed several full-stack applications leveraging complex architectures and modern security protocols.
+
+#### 🛒 [E-commerce Online Shop]
+[cite_start]Developed a complete web application using **ASP.NET Core 8 Razor Pages and SQL Server**[cite: 18].
+* [cite_start]**Security:** Implemented secure JWT authentication and authorization[cite: 19].
+* [cite_start]**Payments:** Integrated PayPal payments and added product reviews[cite: 20].
+
+#### 🔧 [Full Stack Mechanic Shop Management System]
+[cite_start]A robust system built with **ASP.NET Core and EF Core**[cite: 22].
+* [cite_start]**Architecture:** Structured using **Clean Architecture and Domain-Driven Design (DDD)** principles for high maintainability[cite: 22].
+* [cite_start]**Security:** Implemented a hybrid security layer using both **JWT and cookie-based authentication**[cite: 23].
+
+#### 💬 [Real-Time Chat Application]
+[cite_start]A full-stack application enabling instant communication using **ASP.NET Core Razor Pages**[cite: 24, 25].
+* [cite_start]**Real-Time:** Leveraged **SignalR** for efficient, instant message delivery[cite: 26].
+* [cite_start]**Auth:** Utilized **ASP.NET Identity** for comprehensive user management[cite: 27].
+
+---
+
+<div align="center">
+
+![Anime Footer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ5ZXp4YmE3emQ1YmF6enZ5ZXp4YmE3emQ1YmF6enZ5ZXp4YmEmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3oKIPnAiaVwsNYvzE.gif)
+
+Thanks for visiting my profile!
+
+</div>
