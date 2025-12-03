@@ -213,10 +213,8 @@ I'm always open to interesting conversations and collaboration opportunities!
 - Full-Stack .NET Development
 - Backend API Development
 - Enterprise Software Solutions
-- Cloud & Microservices Architecture
 
 📧 **Reach me at:** abdelrahman.aljbarat@gmail.com  
-📱 **Call/WhatsApp:** +962 770277505
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
