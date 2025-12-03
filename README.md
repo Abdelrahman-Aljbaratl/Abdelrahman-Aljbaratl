@@ -87,67 +87,162 @@ public class AbdelrahmanAljbarat : SoftwareEngineer
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 🚗 Mechanic Shop Management System
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="400">
-
-**Tech Stack:** ASP.NET Core, EF Core, SQL Server  
-**Architecture:** Clean Architecture, DDD  
-**Features:**
-- 🔐 Hybrid Authentication (JWT & Cookie)
-- 📊 Work Orders & Invoice Management
-- 👥 Customer & Labor Tracking
-- 📈 Reporting System
-
-</td>
-<td width="50%">
-
-### 🛒 E-Commerce Online Shop
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="400">
-
-**Tech Stack:** ASP.NET Core 8, Razor Pages  
-**Features:**
-- 🔐 JWT Authentication
-- 💳 PayPal Integration
-- ⭐ Product Reviews & Ratings
-- 📱 Responsive Bootstrap UI
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💬 Real-Time Chat Application
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="400">
-
-**Tech Stack:** ASP.NET Core, SignalR  
-**Features:**
-- 💬 Real-Time Messaging
-- 🔐 ASP.NET Identity
-- 🎨 Modern UI/UX
-- ⚡ Instant Message Delivery
-
-</td>
-<td width="50%">
-
-### 📝 Task Manager & Blog Platform
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="400">
-
-**Features:**
-- ✅ Task & Project Management
-- 💬 Comments & Attachments
-- 👥 Team Collaboration
-- 🔒 Secure Authentication
-
-</td>
-</tr>
-</table>
+> *"Building real-world solutions with enterprise-grade architecture"*
 
 </div>
+
+### 🚗 Mechanic Shop Management System
+<div align="left">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="320" alt="Mechanic Shop"/>
+
+**Enterprise-Level Business Management Solution**
+
+A comprehensive system for managing automotive repair shops with advanced architecture patterns.
+
+**🔧 Technical Stack:**
+```yaml
+Backend:      ASP.NET Core Web API
+ORM:          Entity Framework Core
+Database:     SQL Server (Stored Procedures, Views)
+Auth:         JWT + Cookie-based Authentication
+Patterns:     Clean Architecture, DDD, CQRS, MediatR
+Logging:      Serilog
+```
+
+**✨ Key Features:**
+- 👥 Customer & Vehicle Management
+- 📋 Work Orders & Service Tracking
+- 💰 Invoice Generation & Billing
+- ⏱️ Labor Time Tracking
+- 📊 Business Analytics & Reports
+- 🔐 Role-Based Access Control (RBAC)
+
+**🏗️ Architecture Highlights:**
+- Separated into Domain, Application, Infrastructure layers
+- CQRS pattern for optimized read/write operations
+- Repository pattern with Unit of Work
+- Dependency Injection throughout
+
+[🔗 View Project](#) | [📄 Documentation](#)
+
+</div>
+
+---
+
+### 🛒 E-Commerce Online Shop
+<div align="left">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="320" alt="E-Commerce"/>
+
+**Full-Featured Online Shopping Platform**
+
+Modern e-commerce solution with secure payments and rich user experience.
+
+**🔧 Technical Stack:**
+```yaml
+Framework:    ASP.NET Core 8 (Razor Pages)
+Database:     SQL Server with EF Core
+Auth:         JWT Token-based Authentication
+Payment:      PayPal API Integration
+Frontend:     Bootstrap 5, JavaScript, HTML5/CSS3
+```
+
+**✨ Key Features:**
+- 🛍️ Product Catalog with Categories
+- 🔍 Advanced Search & Filtering
+- ⭐ Reviews & Rating System
+- 🛒 Shopping Cart Management
+- 💳 Secure PayPal Payment Gateway
+- 📦 Order Tracking & History
+- 📱 Fully Responsive Design
+
+**🛠️ Implementation Details:**
+- Async/Await for improved performance
+- Client-side & server-side validation
+- Session management for cart persistence
+- Email notifications for orders
+
+[🔗 View Project](#) | [🎥 Demo](#)
+
+</div>
+
+---
+
+### 💬 Real-Time Chat Application
+<div align="left">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="320" alt="Chat App"/>
+
+**Live Messaging Platform with SignalR**
+
+WebSocket-based real-time communication application with modern UI.
+
+**🔧 Technical Stack:**
+```yaml
+Framework:    ASP.NET Core Razor Pages
+Real-Time:    SignalR (WebSockets)
+Auth:         ASP.NET Identity
+Frontend:     Bootstrap 5, JavaScript
+Database:     SQL Server
+```
+
+**✨ Key Features:**
+- 💬 Instant Message Delivery
+- 👥 One-on-One & Group Chats
+- 🟢 Online/Offline User Status
+- 📎 File Sharing Support
+- 🔔 Push Notifications
+- 🎨 Modern, Intuitive UI
+- 🔐 Secure User Authentication
+
+**⚡ Technical Achievements:**
+- Persistent WebSocket connections
+- Efficient message broadcasting
+- Connection state management
+- Scalable hub architecture
+
+[🔗 View Project](#) | [💻 Source Code](#)
+
+</div>
+
+---
+
+### 📝 Task Management Platform
+<div align="left">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="320" alt="Task Manager"/>
+
+**Collaborative Project & Task Tracking System**
+
+Team-focused productivity tool for managing projects and tasks efficiently.
+
+**🔧 Technical Stack:**
+```yaml
+Backend:      ASP.NET Core Web API
+Frontend:     Blazor WebAssembly / Razor Pages
+Database:     SQL Server
+Auth:         JWT Authentication
+Patterns:     Repository Pattern, Dependency Injection
+```
+
+**✨ Key Features:**
+- ✅ Task Creation & Assignment
+- 📁 Project Organization
+- 💬 Comments & Discussions
+- 📎 File Attachments
+- 👥 Team Collaboration
+- 📊 Progress Tracking
+- 🔔 Notification System
+- 🎯 Priority & Deadline Management
+
+**🎯 Core Functionalities:**
+- RESTful API design
+- Role-based permissions
+- Real-time updates
+- Data filtering & sorting
+
+[🔗 View Project](#) | [📖 API Docs](#)
+
+</div>
+
+<br clear="both"/>
 
 ---
 
@@ -213,8 +308,10 @@ I'm always open to interesting conversations and collaboration opportunities!
 - Full-Stack .NET Development
 - Backend API Development
 - Enterprise Software Solutions
+- Cloud & Microservices Architecture
 
 📧 **Reach me at:** abdelrahman.aljbarat@gmail.com  
+📱 **Call/WhatsApp:** +962 770277505
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
