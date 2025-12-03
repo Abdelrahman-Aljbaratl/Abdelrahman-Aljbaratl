@@ -1,105 +1,127 @@
 <!-- HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Abdelrahman+Aljbarat;Full-Stack+.NET+Developer;Passionate+about+Web+%26+Software+Engineering" />
-</p>
+<h1 align="center">👋 Hi, I'm Abdelrahman Hani Aljabarat</h1>
+<h3 align="center">Software Engineer | Full Stack .NET Developer</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/5d/38/88/5d3888d14318c5aaa0dae68d8b793c2b.gif" width="350"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me  
-I'm **Abdelrahman Aljbarat**, a **Full-Stack .NET Developer** with deep passion for building  
-**modern web applications, scalable APIs, SQL solutions, and enterprise-level systems.**
+## 🌟 About Me
+Junior .NET Developer with hands-on experience in building modern, scalable, and secure web applications using  
+**ASP.NET Core, C#, EF Core, SQL Server, Blazor, Razor Pages, Clean Architecture, DDD, JWT Authentication, and Web APIs**.
 
-💡 I work extensively with:  
-- **ASP.NET Core (Web API, MVC, Razor)**  
-- **Entity Framework Core (Migrations, LINQ, Clean Architecture)**  
-- **Angular / React basics**  
-- **SQL Server, Stored Procedures, Views, Joins**  
-- **Docker, WSL2, Redis, Seq, Prometheus (DevOps basics)**  
-- **Authentication & Authorization: JWT, Identity, Roles, Claims**  
-
-🚀 Always learning, improving, and building real-world projects like:  
-**MechanicShop, BlogPlatform, TaskManager, OnlineShop, Portfolio Systems.**
+Focused on:
+- Clean, maintainable code  
+- High-performance backend architecture  
+- Applying modern patterns: **CQRS, DDD, Microservices, Repository, Unit of Work**  
+- Learning continuously and solving real problems  
 
 ---
 
-# 🛠️ Tech Stack  
+## 📌 Connect With Me
 
-### 🚀 Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,regex" />
-</p>
-
-### 🎨 Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,tailwind" />
-</p>
-
-### 🗄️ Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-  <img src="https://skillicons.dev/icons?i=azure" />
-</p>
-
-### ⚙️ DevOps / Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,redis,git,github,linux,powershell,bash" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdelrahman-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Abdelrahman-Aljbaratl">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:abdelrahman.aljbarat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 📦 Featured Projects  
-> 🔥 Want more? Check the pinned repositories!
+## 💻 Tech Stack
 
-### 🧰 **MechanicShop – Complete Workshop Management System**  
-Backend: ASP.NET Core | EF Core | SQL Server  
-Features: Customers, Work Orders, Invoices, Labor, Reports  
+### 🔹 Backend  
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### 📝 **BlogPlatform – Clean Architecture CMS**  
-Layers: Domain | Application | Infrastructure  
-Tech: EF Core, CQRS, MediatR, Serilog, JWT
+### 🔹 Frontend  
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 📌 **TaskManager – Project & Team Management System**  
-Tasks, Projects, Comments, Attachments, Teams  
-Frontend + API + Authentication
-
-### 🛒 **OnlineShop – Razor Pages E-commerce**  
-Cart, Products, Checkout, Payments  
-Clean, modular, fast
+### 🔹 Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-E95723?style=for-the-badge&logo=postman&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats  
+## 🏗 Featured Projects
+
+### 🛒 **E-Commerce Online Shop (ASP.NET Core 8)**
+- Razor Pages + SQL Server  
+- JWT Authentication  
+- PayPal integration  
+- Reviews & Ratings  
+- Responsive UI  
+
+🔗 *Live Demo (if available)*  
+🔗 *Source Code:* *(Add repository link)*
+
+---
+
+### 🛠 **Mechanic Shop Management System — Clean Architecture + DDD**
+- ASP.NET Core, EF Core  
+- Domain-Driven Design + Layers  
+- Hybrid Authentication (JWT + Cookies)  
+- Advanced architecture for scalability  
+
+🔗 *Source Code:* *(Add repository link)*
+
+---
+
+### 💬 **Real-Time Chat App — SignalR**
+- ASP.NET Core + SignalR  
+- Real-time messaging  
+- ASP.NET Identity  
+- Modern UI/UX  
+
+🔗 *Source Code:* *(Add repository link)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Aljbaratl&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Aljbaratl&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelrahman-Aljbaratl&theme=tokyonight" />
 </p>
 
+---
+
+## 🌀 Fun Animated Section
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Aljbaratl&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Aljbaratl&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdelrahman-aljbarat" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
-  <a href="mailto:abdelrahman.aljbarat@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-  </a>
-  <a href="https://github.com/Abdelrahman-Aljbaratl">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  </a>
-</p>
+## 📬 Contact Me Anytime
+📧 **Email:** abdelrahman.aljbarat@gmail.com  
+📞 **Phone:** +962 770277505  
+🌍 **Location:** Amman, Jordan  
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/bb/74/3a/bb743a0cb84dad2cf7f6010e5201a2cd.gif" width="300" />
-</p>
-
+### ⭐ If you like my work, feel free to star my repositories!
