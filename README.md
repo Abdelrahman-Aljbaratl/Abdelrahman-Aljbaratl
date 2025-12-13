@@ -9,37 +9,23 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- Interactive System Status Dashboard -->
+<!--
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%">
 </div>
+-->
+<div align="center">
+Abdelrahman Aljbarat
+Full-Stack .NET Developer • Amman, Jordan 🇯🇴
+Building enterprise applications with Clean Architecture and Domain-Driven Design
+Show Image
+Show Image
+Show Image
+</div>
 
-## 🧑‍💻 About Me
-
-```csharp
-namespace Portfolio
-{
-    public class Developer
-    {
-        public string Name { get; } = "Abdelrahman Hani Aljbarat";
-        public string Role { get; } = "Full-Stack .NET Developer";
-        public string Location { get; } = "Amman, Jordan 🇯🇴";
-        public string Company { get; } = "Binary Digits";
-        public DateTime CareerStart { get; } = new DateTime(2025, 2, 1);
-        
-        public List<string> Expertise { get; } = new()
-        {
-            "Backend Development with ASP.NET Core",
-            "Clean Architecture & Domain-Driven Design",
-            "RESTful API Design & Implementation",
-            "Database Design & Optimization",
-            "Real-Time Communication Systems"
-        };
-        
-        public string CurrentGoal { get; } = 
-            "Building enterprise-grade applications with best practices";
-    }
-}
-```
+👨‍💻 About Me
+Full-Stack .NET Developer with expertise in building scalable enterprise applications. I focus on writing clean, maintainable code following industry best practices and architectural patterns.
+Core Expertise: ASP.NET Core • Entity Framework • SQL Server • Clean Architecture •
 
 <div align="center">
 
@@ -80,7 +66,6 @@ namespace Portfolio
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### 🏗️ Architecture & Patterns
 
